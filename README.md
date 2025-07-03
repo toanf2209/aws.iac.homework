@@ -12,7 +12,7 @@
     - Example `./env/lab.tfvars`
 - Enter the newly created value into `TARGET_ENV` in `Makefile`
 
-### 3. Command:
+### 3. Deployment Command:
 - **Step 1:** Provider initialization
     - init: `make init `
 - **Step 2:** Plan implementation
@@ -22,4 +22,7 @@
 - **Step 4:** Destroy infrastructure
     - destroy: `make destroy `
 
+### 4.Result
+- Access application
+    - `Public IP` = [18.139.110.218](http://18.139.110.218/)
 
