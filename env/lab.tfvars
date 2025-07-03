@@ -1,0 +1,5 @@
+aws_profile   = "lab"
+project       = "homework"
+key_pair_name = "lab-key"
+my_ip         = "14.191.241.145/32"
+bucket_name   = "lab-homework-aws-1"
